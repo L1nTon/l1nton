@@ -10,7 +10,6 @@
 
 * **💥 Специализация:** Фулл-стек разработчик, для которого **JavaScript** — родной язык, а **фронтенд** — арена для создания топовых интерфейсов.
 * **📍 Локация:** Ташкент, Узбекистан
-* **🚀 В фокусе:** Активно работаю над [BlogerAgency](http://bloger.agency/) — моим текущим мощным проектом.
 * **📚 В прокачке:** Прямо сейчас углубленно осваиваю **React** и **Vue**, чтобы выжать максимум из современных SPA.
 * **🔗 Связь:** [l1nton707shw@gmail.com](mailto:l1nton707shw@gmail.com)
 * **👁️‍🗨️ Мои работы:** [Портфолио](http://diordev.uz) | GitHub: <a href="https://www.github.com/l1nton" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/l1nton?logo=github&style=for-the-badge&color=3382ed&labelColor=134e4a" alt="Подписчики на GitHub" /></a>
